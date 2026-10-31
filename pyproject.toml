@@ -1,0 +1,7 @@
+[project]
+name = "ballsdex_duplicates"
+version = "1.0.0"
+description = "Admin duplicate finder for BallsDex V3 (/admin balls duplicates), configurable from the admin panel"
+license = "MIT"
+readme = "README.md"
+dependencies = []
